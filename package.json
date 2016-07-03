@@ -1,0 +1,35 @@
+{
+  "name": "rapid-recruit",
+  "version": "0.0.2",
+  "description": "RapidApi test for Node.js",
+  "main": "./lib/main.js",
+  "preferGlobal": "true",
+  "bin": {
+    "rapid-recruit": "bin/rapid-recruit.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RapidSoftwareSolutions/rapid-recruit-mark.git"
+  },
+  "author": {
+    "name": "Mark Grichanik",
+    "email": "markgrichanik@gmail.com",
+    "url": ""
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RapidSoftwareSolutions/rapid-recruit-mark/issues"
+  },
+  "homepage": "https://github.com/RapidSoftwareSolutions/rapid-recruit-mark#readme",
+  "dependencies": {
+    "bluebird": "^3.4.1",
+    "bootstrap": "^3.3.6",
+    "fs": "0.0.2",
+    "moment": "^2.13.0",
+    "nightmare": "^2.5.2",
+    "request": "^2.72.0"
+  }
+}
