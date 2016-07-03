@@ -1,4 +1,4 @@
-# rapid recruit
+# Rapid Recruit
 
 This package provides a way to crawl search result from linkedin.com
 
